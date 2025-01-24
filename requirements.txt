@@ -1,0 +1,7 @@
+wheel
+Flask
+Flask-SQLAlchemy
+python-dotenv
+pytest
+gunicorn
+flasgger
